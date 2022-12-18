@@ -1,0 +1,10 @@
+{
+    "interactionLog": [{
+        "name": "Broken mirror.png",
+        "description": "Your hand bleeds. You feel the pain of an ant who has hurt their hand very badly",
+        "prompt": "Observe",
+        "obID": 0
+    }],
+    "inventory": [],
+    "currentLocation": 0
+}
